@@ -1,4 +1,4 @@
-  
+pooo  
 #!/bin/bash
 #version 1.5
 clear
@@ -178,7 +178,9 @@ echo "3"
 sleep 1
 echo "2"
 sleep 1
-echo "1"
+echo "1"Dr
+
+
 sleep 1
 git clone https://github.com/Gameye98/Lazymux
 echo -e "${y} Installer Lazymux..."
